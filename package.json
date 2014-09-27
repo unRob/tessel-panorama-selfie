@@ -1,0 +1,14 @@
+{
+  "name": "panorama",
+  "version": "0.0.0",
+  "description": "Tessel controlled panorama capture",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roberto Hidalgo",
+  "license": "WTFPL",
+  "dependencies": {
+    "ir-attx4": "^0.2.5"
+  }
+}
